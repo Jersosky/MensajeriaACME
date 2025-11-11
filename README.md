@@ -26,7 +26,7 @@ XML transformado: Se imprime en consola el xml transformado
 Endpoint: https://run.mocky.io/v3/19217075-6d4e-4818-98bc-416d1feb7b84  
 
 # C.	Realizar transformación de la respuesta de xml a json, teniendo en cuenta la siguiente tabla de mapeo:
- Respuesta: Los datos del xml a trasformar se dejarn estaticos en el codigo ya que la URL proporcionada no responde correctamente: 
+ Respuesta: Los datos del xml a trasformar se dejaron estaticos en el codigo ya que la URL proporcionada no responde correctamente: 
  ![alt text](image-1.png)
 
  xml ejecutado: 
@@ -52,4 +52,6 @@ Endpoint: https://run.mocky.io/v3/19217075-6d4e-4818-98bc-416d1feb7b84
     }
 }
 
-D.	Cargar y documentar el proyecto en un repositorio de git para ejecución en contenedores de Docker y compartirnos la ruta.
+# D.	Cargar y documentar el proyecto en un repositorio de git para ejecución en contenedores de Docker y compartirnos la ruta.
+
+![alt text](image-2.png)
